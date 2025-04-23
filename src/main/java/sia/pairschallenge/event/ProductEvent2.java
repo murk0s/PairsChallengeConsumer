@@ -1,4 +1,4 @@
-package sia.pairschallenge.service.event;
+package sia.pairschallenge.event;
 
 import lombok.*;
 
@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
-public class ProductEvent implements Serializable{
+public class ProductEvent2 implements Serializable{
 
         private int id;
 
