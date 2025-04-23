@@ -1,0 +1,1 @@
+Для запуска приложения запустить PairsChallengeConsumerApplication.class
