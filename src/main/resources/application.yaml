@@ -1,3 +1,4 @@
+
 spring:
   application:
     name: PairsChallengeConsumer
@@ -10,3 +11,5 @@ spring:
       properties:
         spring.json.trusted.packages: sia.pairschallenge.service.event
         spring.json.value.default.type: sia.pairschallenge.service.event.ProductEvent
+server:
+  port: 8081
